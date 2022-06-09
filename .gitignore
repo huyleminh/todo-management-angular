@@ -48,3 +48,11 @@ package-lock.json
 
 # environments
 /src/environments
+
+# logging
+*.log
+
+# firebase
+.firebase
+.firebaserc
+firebase.json
